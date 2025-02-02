@@ -58,7 +58,7 @@ function showMessage(response) {
     }
 
     const yesMessage = document.getElementById("question");
-    yesMessage.textContent = "No i o to chodzi bluuuud widzimy sie 14😻😻";
+    yesMessage.textContent = "No i super, Kocham Cię😻😻";
     yesMessage.style.display = "block";
     yesMessage.style.fontStyle = "normal";
     document.getElementsByClassName("image")[0].src = "images/dance.gif";
